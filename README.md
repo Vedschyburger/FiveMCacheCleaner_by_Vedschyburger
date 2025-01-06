@@ -21,3 +21,6 @@ It checks whether the folders “cache”, “server-cache” and “server-cach
 If folders are missing, a corresponding message is displayed.
 If FiveM is not installed on the C: hard disk, the path must be adjusted accordingly.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![grafik](https://github.com/user-attachments/assets/9bf56036-e14b-4e1a-b67f-7252fc14235d)
+
+
