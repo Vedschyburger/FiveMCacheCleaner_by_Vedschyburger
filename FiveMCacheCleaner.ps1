@@ -3,7 +3,7 @@
 # All rights reserved.
 # My Github: https://github.com/Vedschyburger
 #
-# This code may be freely used and modified for personal use, but may not be sold or published in a modified form. The above copyright and license text must remain unchanged and the main owner (Vedschyburger) must be explicitly mentioned in the modified code. Any changes to the code must be clearly documented.
+# This code may be freely used and modified for personal use, but may not be sold or published in a modified form. The above copyright and license text must remain unchanged and the main owner (Vedschyburger) must be explicitly mentioned in the modified code. Any changes to the code must be clearly documented. Run this script as administrator
 # 
 # Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
 # to deal in the Software without restriction, including without limitation the rights to use, copy, modify, and merge the Software, subject to the following conditions:
